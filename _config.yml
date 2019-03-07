@@ -17,7 +17,7 @@ baseurl: ''
 title: 'How to Serve Man'
 description: 'This is my new cooking blog'
 permalink: pretty
-logo: "/images/general/me.jpg"
+logo: "/images/general/me_square.jpg"
 
 # Pagination
 paginate: 5
