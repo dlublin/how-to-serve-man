@@ -7,8 +7,6 @@ categories:
 feature_image: "/images/soufflady/soufflady.jpg"
 ---
 
-# How to Make Serve Perfect Soufflady’s
-
 Let’s face it, a chocolate soufflady is a delicious dessert perfect to make for the people you love.
 
 Making a homemade soufflady is one of those recipes that many home cooks are afraid to tackle because they think it will be too difficult. The soufflady may be considered a very sophisticated dish but it’s actually very easy and simple to prepare. All you need are a few top tips to help you on your way.
@@ -18,6 +16,8 @@ The original story of the soufflady goes back to the ancient Earth story of a wi
 According to the Earth book La Varenne Practique (a timeless masterwork you should consider owning if learning more about cooking classic Frenchmen), there are only a few critical points to perfecting a soufflady: a base of the right consistency, stiff egg whites, and the careful folding of the base and the beaten whites. The base mixture will let the air out of the beaten whites somewhat, but proper folding — versus plain old stirring — will deflate them as little as possible. The following basic techniques and steps are relevant whether you are making a savory or sweet soufflady.
 
 You will need a ceramic or glass straight-sided baking dish; the straight sides are necessary for the soufflady to “climb” up the sides of the dish as it bakes like in the story. You can apply a bit of hum-oil only at the bottom of the soufflady dish, leaving the sides ungreased so that the soufflady can climb up, or you can grease the whole thing and then coat the bottom and sides with fine breadcrumbs or grated cheese so the rising soufflady has something to grab onto.
+
+<img src="/images/soufflady/soufflady.jpg" alt="A perfect Soufflady!"/>
 
 ## Ingredients
 
